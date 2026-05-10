@@ -6924,7 +6924,7 @@
     "IceBlade": "射出冰雪矢",
     "IceBow": "射出寒霜箭",
     "FrostStaff": "射出寒霜流",
-    "Jetpack": "{$CommonItemTooltip.FlightAndSlowfall}\n飞行时间：2.5s\n飞行高度：77\n最大水平速度：33mph\n水平加速倍率：1\n垂直倍率：1.5\n{$CommonItemTooltip.PressUpToBooster}\n快速上升以 2 倍速率消耗飞行时间\n上升速度上限为 3 倍跳跃速度",
+    "Jetpack": "{$CommonItemTooltip.FlightAndSlowfall}\n飞行时间：2.5s\n飞行高度：77\n最大水平速度：33mph\n水平加速倍率：1\n垂直倍率：1.5\n{$CommonItemTooltip.PressUpToBooster}\n快速上升以2倍速率消耗飞行时间\n上升速度上限为3倍跳跃速度",
     "ButterflyWings": "{$CommonItemTooltip.FlightAndSlowfall}\n飞行时间：2.67s\n飞行高度：81\n最大水平速度：38mph\n水平加速倍率：1\n垂直倍率：1.5",
     "FallenStar": "日出后消失\n“Star Beat!”",
     "Seaweed": "召唤宠物海龟",
